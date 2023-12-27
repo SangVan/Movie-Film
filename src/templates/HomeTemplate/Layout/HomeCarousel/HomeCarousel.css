@@ -1,0 +1,16 @@
+.slick-dots-bottom {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.play-btn-carousel {
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.play-btn-carousel:hover {
+  opacity: 0.8;
+}
